@@ -135,21 +135,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d55ea21070165bc49b8ebe5bd579deff,
         type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.75
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d55ea21070165bc49b8ebe5bd579deff,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.75
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d55ea21070165bc49b8ebe5bd579deff,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.75
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: d55ea21070165bc49b8ebe5bd579deff,
-        type: 3}
       propertyPath: m_LocalPosition.x
       value: -17.55
       objectReference: {fileID: 0}
@@ -201,17 +186,17 @@ PrefabInstance:
     - target: {fileID: -5477749408508380018, guid: d55ea21070165bc49b8ebe5bd579deff,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.59
+      value: -4.31
       objectReference: {fileID: 0}
     - target: {fileID: -5477749408508380018, guid: d55ea21070165bc49b8ebe5bd579deff,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -48.22
+      value: -34.34
       objectReference: {fileID: 0}
     - target: {fileID: -5477749408508380018, guid: d55ea21070165bc49b8ebe5bd579deff,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -27.8
+      value: -23.65
       objectReference: {fileID: 0}
     - target: {fileID: -4683669308469848369, guid: d55ea21070165bc49b8ebe5bd579deff,
         type: 3}
@@ -304,7 +289,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 15f72c8f62837be43a01ebb081dfbd5b,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 15f72c8f62837be43a01ebb081dfbd5b,
         type: 3}
@@ -485,7 +470,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 3bda57f78dfc27a45a9e80e56ceb70d5,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3bda57f78dfc27a45a9e80e56ceb70d5,
         type: 3}
